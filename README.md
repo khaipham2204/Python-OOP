@@ -1,2 +1,2 @@
-# Python- OOP - Design patterns
+# Python - OOP - Design patterns
 > https://refactoring.guru/design-patterns
